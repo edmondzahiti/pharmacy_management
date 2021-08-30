@@ -26,7 +26,7 @@ class StorePharmacyRequest extends FormRequest
         return [
             'name'       => 'required|string',
             'email'      => 'required|string|email',
-            'vat_number' => 'required|string|max:11|unique:pharmacies,vat_number',
+            'vat_number' => 'required|numeric|unique:pharmacies,vat_number',
             'phone'      => 'nullable|string',
         ];
     }

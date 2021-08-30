@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3711655d-6d9a-44cf-9d7e-7e3d51e6a29e" name="Default Changelist" comment="" />
+    <list default="true" id="3711655d-6d9a-44cf-9d7e-7e3d51e6a29e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Requests/StorePharmacyRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Requests/StorePharmacyRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/factories/PharmacyFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/PharmacyFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TestCase.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TestCase.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +18,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -131,6 +142,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1qzqq42YDWWKBlBwJu0zj1cK58z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -138,18 +150,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/database/factories" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Traits" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\pharmacy_management\app\Traits" />
+      <recent name="C:\laragon\www\pharmacy_management\tests" />
+      <recent name="C:\laragon\www\pharmacy_management\tests\Feature" />
       <recent name="C:\laragon\www\pharmacy_management\database\factories" />
       <recent name="C:\laragon\www\pharmacy_management\database\seeders" />
-      <recent name="C:\laragon\www\pharmacy_management\app\Http\Resources" />
-      <recent name="C:\laragon\www\pharmacy_management\app\Http\Middleware" />
-      <recent name="C:\laragon\www\pharmacy_management\app\Http\Requests" />
     </key>
   </component>
   <component name="RunManager">
@@ -172,26 +184,67 @@
       <workItem from="1628519426995" duration="3810000" />
       <workItem from="1628603832335" duration="5118000" />
       <workItem from="1628687740373" duration="7963000" />
+      <workItem from="1628722020246" duration="522000" />
+      <workItem from="1629210838907" duration="994000" />
+      <workItem from="1629213112969" duration="531000" />
+      <workItem from="1629213787584" duration="4353000" />
+      <workItem from="1629238398947" duration="2000" />
+      <workItem from="1629474825625" duration="33000" />
+      <workItem from="1629727182844" duration="8033000" />
+      <workItem from="1629897269398" duration="10000" />
+      <workItem from="1629897289444" duration="2120000" />
+      <workItem from="1629905858660" duration="1498000" />
+      <workItem from="1629984545398" duration="80000" />
+      <workItem from="1630330694121" duration="2236000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1628722112705</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628722112705</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="2625" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1628604037657">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="705" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1629731634729">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="705" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1629731634729" />
     <state x="2625" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1628604037657" />
     <state x="2685" y="202" key="#com.intellij.ide.util.MemberChooser" timestamp="1628604905982">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2685" y="202" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1628604905982" />
-    <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1628690068130">
+    <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1629732080966">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1628690068130" />
+    <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1629732080966" />
     <state x="2610" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1628608376439" />
+    <state x="577" y="99" key="CommitChangelistDialog2" timestamp="1628722111957">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="577" y="99" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1628722111957" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1628722064918">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1628722064918" />
+    <state x="801" y="418" key="Github.ShareDialog" timestamp="1628722213637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="801" y="418" key="Github.ShareDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1628722213637" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1628722206715">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1628722206715" />
     <state x="1912" y="-8" width="1369" height="1027" maximized="true" key="dock-window-1" timestamp="1628689344381">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -200,10 +253,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2004" y="-25" width="1369" height="1027" maximized="true" key="dock-window-2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1628694814710" />
-    <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1628690828189">
+    <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1629729132838">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="667" y="253" width="585" height="534" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1628690828189" />
+    <state x="667" y="253" width="585" height="534" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1629729132838" />
     <state x="2587" y="253" width="585" height="534" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1628608488478" />
     <state x="2536" y="240" key="run.anything.popup" timestamp="1628604775842">
       <screen x="1920" y="0" width="1920" height="1040" />

@@ -24,10 +24,11 @@ class PharmacyFactory extends Factory
         return [
             'name'       => $this->faker->text(7),
             'email'      => $this->faker->email,
-            'vat_number' => $this->faker->unique()->numberBetween(1, 1000),
+            'vat_number' => $this->faker->unique()->numberBetween(1, 10),
             'phone'      => $this->faker->phoneNumber,
             'active'     => true,
         ];
     }
 
 }
+
