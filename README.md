@@ -16,3 +16,7 @@ php artisan key:generate
 php artisan migrate --seed
 php artisan serve
 ```
+
+#### Unit Test
+Execute command to run all the tests: ``` php artisan test ```  
+Or Execute each test individually: ``` php artisan test --filter TestName ```  

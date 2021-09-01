@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3711655d-6d9a-44cf-9d7e-7e3d51e6a29e" name="Default Changelist" comment="unit testing">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3711655d-6d9a-44cf-9d7e-7e3d51e6a29e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -192,6 +190,7 @@
       <workItem from="1630330694121" duration="2637000" />
       <workItem from="1630335485729" duration="664000" />
       <workItem from="1630506127845" duration="640000" />
+      <workItem from="1630507658554" duration="74000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1628722112705</created>
@@ -207,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630333250154</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="read me fix">
+      <created>1630507690579</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1630507690579</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,7 +222,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="unit testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="unit testing" />
+    <MESSAGE value="read me fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="read me fix" />
   </component>
   <component name="WindowStateProjectService">
     <state x="705" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1629731634729">
@@ -233,10 +240,10 @@
     </state>
     <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1629732080966" />
     <state x="2610" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1628608376439" />
-    <state x="577" y="99" key="CommitChangelistDialog2" timestamp="1630333285594">
+    <state x="577" y="99" key="CommitChangelistDialog2" timestamp="1630507689906">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="577" y="99" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1630333285594" />
+    <state x="577" y="99" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1630507689906" />
     <state x="176" y="95" key="DiffContextDialog" timestamp="1630333227891">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -249,10 +256,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="801" y="418" key="Github.ShareDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1628722213637" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1630506155172">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1630507691879">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1630506155172" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1630507691879" />
     <state x="1912" y="-8" width="1369" height="1027" maximized="true" key="dock-window-1" timestamp="1628689344381">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
