@@ -1,4 +1,4 @@
-# Laravel Challenge
+# Pharmacy Management
 
 ## Installation
 
